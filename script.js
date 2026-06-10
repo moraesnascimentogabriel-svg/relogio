@@ -3,7 +3,7 @@ function carregar(){
     var msg = window.document.getElementByld('msg')
     var img = window.document.getElementByld('imagem')
 
-    var data = new Data()
+    var data = new Date()
     var hora = data getHours()
     var minutos = data.getMinutes()
 
